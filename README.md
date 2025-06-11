@@ -1,4 +1,4 @@
-# CI/CD and Automation Portfolio - @tbernacchi
+# CI/CD and Automation Portfolio
 
 > This repository documents and organizes my projects and practical experiences with CI/CD, pipelines, automation, infrastructure as code, and modern development practices.
 
@@ -95,6 +95,5 @@ Each project is being documented and enhanced to better reflect practical experi
 - Detailed technical documentation for each project.
 - Automated tests and coverage.
 - Visual demonstrations (GIFs, screenshots, or videos).
-- Reusable scripts and best practices.
 
 Feel free to explore the repositories, open issues, or suggest improvements!
