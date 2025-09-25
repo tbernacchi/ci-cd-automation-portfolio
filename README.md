@@ -1,6 +1,6 @@
 # CI/CD and Automation Portfolio
 
-> This repository documents and organizes my projects and practical experiences with CI/CD, pipelines, automation, infrastructure as code, and modern development practices.
+> This repository documents and organizes my projects and practical experiences with CI/CD, pipelines, automation, infrastructure as code, and modern development practices. Some projects I have implemented, maintained in production and other as a way to study and learn new concepts.
 
 ---
 
@@ -64,13 +64,3 @@
 - A simple pipeline using Jenkinsfile deploying on Kubernetes + Argo.
 
 ---
-
-## ✍️ Contribution and Continuous Improvement
-
-Each project is being documented and enhanced to better reflect practical experience with CI/CD and DevOps. Future plans include adding:
-
-- Detailed technical documentation for each project.
-- Automated tests and coverage.
-- Visual demonstrations (GIFs, screenshots, or videos).
-
-Feel free to explore the repositories, open issues, or suggest improvements!
