@@ -1,6 +1,6 @@
 # CI/CD and Automation Portfolio
 
-> This repository documents and organizes my projects and practical experiences with CI/CD, pipelines, automation, infrastructure as code, and modern development practices. Some projects I have implemented, maintained in production and other as a way to study and learn new concepts.
+> This repository documents and organizes my projects and practical experiences with CI/CD, pipelines, automation and modern development practices. Some projects I have implemented/maintained in production and others as a way to study and learn new things.
 
 ---
 
