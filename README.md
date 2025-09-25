@@ -57,9 +57,9 @@
 
 ---
 
-### [jenkins-docker-hextris](https://github.com/tbernacchi/jenkins-docker-hextris)
+### ✅ [jenkins-docker-hextris](https://github.com/tbernacchi/jenkins-docker-hextris)
 
-** Highlights:**
+**Highlights:**
 - Local Jenkins with complete Kubernetes support using Docker compose.
 - A simple pipeline using Jenkinsfile deploying on Kubernetes + Argo.
 
