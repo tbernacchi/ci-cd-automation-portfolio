@@ -11,12 +11,7 @@
 **Highlights:**
 - CI/CD with GitLab CI for deployment on GKE using Helm.
 - Pipeline with build, test, and deploy stages.
-- Authentication with container registry and continuous deployment with Helm.
-
-**Relevance:**
-- Demonstrates skills in building automated CI/CD pipelines.
-- Practical integration with Kubernetes (GKE) and Helm management.
-- Real use of Pipeline as Code (PaaC).
+- Authentication with container registry and continuous deployment with Helm, real use of Pipeline as Code (PaaC).
 
 ---
 
@@ -27,24 +22,13 @@
 - TLS configuration and monitoring (Prometheus, Jaeger).
 - Kubernetes infrastructure with dynamic routing.
 
-**Relevance:**
-- Application of automation and cloud infrastructure practices.
-- Experience analyzing and improving deployment pipelines.
-- Support for complex environments and microservices.
-
 ---
 
 ### ✅ [bitcoin-investment-tracker](https://github.com/tbernacchi/bitcoin-investment-tracker)
 
 **Highlights:**
 - Go application with CI/CD pipeline using GitHub Actions.
-- Automated build, test, and deploy.
-- Well-structured Go project.
-
-**Relevance:**
-- Experience with automated build and test pipelines.
-- Use of GitHub Actions for continuous integration.
-- Practical demonstration of unit testing and automation.
+- Automated build, test, and deploy, well-structured Go project.
 
 ---
 
@@ -53,11 +37,6 @@
 **Highlights:**
 - `automation.sh` script for automated setup and deployment.
 - Simple and efficient automation for repetitive processes.
-
-**Relevance:**
-- Demonstration of automation via scripting.
-- Ease of provisioning and local execution.
-- Support for improvements in existing pipelines.
 
 ---
 
@@ -68,11 +47,6 @@
 - Parallel and controlled execution of CI/CD steps.
 - Continuous deployment on Kubernetes.
 
-**Relevance:**
-- Experience with sophisticated pipelines on Kubernetes.
-- Practical implementation of Trunk Based Development.
-- Use of Pipeline as Code for automated tests and deployments.
-
 ---
 
 ### ✅ [gh-actions-terraform](https://github.com/tbernacchi/gh-actions-terraform)
@@ -81,10 +55,13 @@
 - Infrastructure provisioning with Terraform via GitHub Actions.
 - Automated pipeline for Infrastructure as Code (IaC).
 
-**Relevance:**
-- Demonstration of CI/CD and IaC integration.
-- Skills in managing automated cloud environments.
-- Practical use of GitHub Actions for orchestration.
+---
+
+### [jenkins-docker-hextris](https://github.com/tbernacchi/jenkins-docker-hextris)
+
+** Highlights:**
+- Local Jenkins with complete Kubernetes support using Docker compose.
+- A simple pipeline using Jenkinsfile deploying on Kubernetes + Argo.
 
 ---
 
